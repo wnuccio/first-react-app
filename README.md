@@ -1,5 +1,8 @@
 # First React App
 
+## To start
+- `npm start`
+
 ## VS Code tips
 - Command P 
 
